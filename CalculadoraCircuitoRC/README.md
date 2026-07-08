@@ -18,7 +18,7 @@ A calculadora generaliza o problema, permitindo inserir qualquer valor de R, C e
 
 ## 🖥️ Preview da interface
 
-> Interface com tema escuro, acentos em azul elétrico e layout em cards verticais.
+![Interface da Calculadora](calculadora.png)
 
 ---
 
